@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-
+programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
@@ -81,7 +81,8 @@ def adding_matz
         }
      }
 
-   programmer_hash[:yukihiro_matsumoto][:known_for => "Ruby"][:languages => ]
+   programmer_hash[:yukihiro_matsumoto]
+   
 end
 
 def changing_alan
